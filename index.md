@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<script type="text/javascript" src="https://birdeye.com/embed/v4/163185535171955/7/1234567975183" async></script><div id="bf-revz-widget-1234567975183" ><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-badge&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=customer-reviews_rectangle_#51a8d3" target="_blank">Birdeye</a></span></div></div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
