@@ -61,7 +61,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 <script type="text/javascript" src="https://birdeye.com/embed/v4/163185535171955/8/1234568005183" async></script><div id="bf-revz-widget-1234568005183" ><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-feed&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=rotating-widget_#51a8d3" target="_blank">Birdeye</a></span></div></div>
 
 
-<script defer type="text/javascript" src="https://qa8.birdeye.com/embed/v6/159288877166972/1/3773458682/744e24edb2674a1f974e5cf0f58c576e22b7a6cd977365d5"></script><div id="bf-revz-widget-3773458682"></div>
+<script defer type="text/javascript" src="https://qa8.birdeye.com/embed/v6/159288877166972/1/3773458682/744e24edb2674a1f974e5cf0f58c576e22b7a6cd977365d5?emailRequired=1"></script><div id="bf-revz-widget-3773458682"></div>
 
 
 ### Support or Contact
