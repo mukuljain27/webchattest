@@ -60,8 +60,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <script type="text/javascript" src="https://birdeye.com/embed/v4/163185535171955/8/1234568005183" async></script><div id="bf-revz-widget-1234568005183" ><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-feed&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=rotating-widget_#51a8d3" target="_blank">Birdeye</a></span></div></div>
 
+<script type="text/javascript" >
+        				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        				ga('create', 'UA-36823741-2', 'auto');
+        				// Plugins
 
-<script defer type="text/javascript" src="https://qa8.birdeye.com/embed/v6/159288877166972/1/3773458682/744e24edb2674a1f974e5cf0f58c576e22b7a6cd977365d5?emailRequired=1"></script><div id="bf-revz-widget-3773458682"></div>
+        				ga('send', 'pageview');
+        			</script>
+        			<script async src="https://www.google-analytics.com/analytics.js"></script>
+        <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MZ8KSDH');</script>
+        <!-- End Google Tag Manager -->
 
 
 ### Support or Contact
