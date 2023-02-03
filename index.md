@@ -1935,7 +1935,7 @@ document,'script','https://connect.facebook.net/en_US/fbevents.js');
 			}
 		});
 	});
-</script><script defer src="https://birdeye.com/embed/v6/134245/1/1332760452/7bc00ac03fb8c50adaf32da76540f2b60f4edc0bb726ef34" id="podium-widget" data-api-token="" /></script><script type='text/javascript'>
+</script><script type='text/javascript'>
         document.addEventListener( 'wpcf7mailsent', function( event ) {
         if( "fb_pxl_code" in event.detail.apiResponse){
           eval(event.detail.apiResponse.fb_pxl_code);
