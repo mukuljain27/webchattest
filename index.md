@@ -76,12 +76,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
             })(window,document,'script','dataLayer','GTM-MZ8KSDH');</script>
         <!-- End Google Tag Manager -->
         
-<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2578/1/2644205646/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-2644205646"></div>
-
-<iframe loading="lazy" src="https://qa2.birdeye.com/appointments/166255873971050/4b1MpqW3?userId=371736" width="100%" height="600" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://qa2.birdeye.com/appointments/166255873971050/4b1MpqW3?userId=371736" data-ll-status="loaded" class="entered lazyloaded"></iframe>
-
-<!-- <script defer type="text/javascript" src="https://birdeye.com/embed/v6/120882/1/2241253377/0ab02cbe6ffe50730b189a178243b5dd6f649e6a67f988b0"></script><div id="bf-revz-widget-2241253377"></div> -->
-        
+<script defer type="text/javascript" src="https://demo28.birdeye.com/embed/v6/2955/1/2968577622/f327abed290a4f1afba6b5cdd896d1c6916c80ca94894071"></script><div id="bf-revz-widget-2968577622"></div>       
 
 
 ### Support or Contact Birdeye
