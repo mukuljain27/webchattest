@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<a href="https://birdeye.com/appointments/158597310334381/Oz1xbgGJ" target="_blank" rel="noopener noreferrer">Book an appointment</a>
+<button><a href="https://birdeye.com/appointments/158597310334381/Oz1xbgGJ" target="_blank" rel="noopener noreferrer">Book an appointment</a></button>
 
 You can use the [editor on GitHub](https://github.com/SAGGARW1/webchat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
