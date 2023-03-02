@@ -76,8 +76,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
             })(window,document,'script','dataLayer','GTM-MZ8KSDH');</script>
         <!-- End Google Tag Manager -->
         
-<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/3539/1/254380147/a8fa20ad01bfdedd71085d2cf4091515af9bd5d466834527"></script><div id="bf-revz-widget-254380147"></div> 
+<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/3539/1/254380147/a8fa20ad01bfdedd71085d2cf4091515af9bd5d466834527"></script><div id="bf-revz-widget-254380147"></div>
+```html
 <input type='button'value='Book an appointment' class="btn" onclick="document.location.href='https://birdeye.com/appointments/158597310334381/Oz1xbgGJ?userId=2316977&source=2';"/>
+```
 
 
 ### Support or Contact Birdeye
