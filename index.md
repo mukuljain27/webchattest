@@ -78,7 +78,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
             })(window,document,'script','dataLayer','GTM-MZ8KSDH');</script>
         <!-- End Google Tag Manager -->
         
-<script defer type="text/javascript" src="https://birdeye.com/embed/v6/136351/1/1511684560/0ab02cbe6ffe50730b189a178243b5dd6f649e6a67f988b0"></script><div id="bf-revz-widget-1511684560"></div>
+		<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div><script type="text/javascript" >
+			function chatNowOnclick() {
+				window.be_webchat.open({ bizNumber: 165046861011457 });
+			}
+		 </script>
+		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>	
 
 ### Support or Contact Birdeye
 
