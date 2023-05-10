@@ -2,13 +2,6 @@
 
 <button><a href="https://birdeye.com/appointments/158597310334381/Oz1xbgGJ" target="_blank" rel="noopener noreferrer">Book an appointment</a></button>
 
-		<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div><script type="text/javascript" >
-			function chatNowOnclick() {
-				window.be_webchat.open({ bizNumber: 165046861011457 });
-			}
-		 </script>
-		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
-
 You can use the [editor on GitHub](https://github.com/SAGGARW1/webchat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -65,6 +58,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
         
      
 <script type="text/javascript" src="https://birdeye.com/embed/v4/163185535171955/7/1234567995183" async></script><div id="bf-revz-widget-1234567995183" ><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-badge&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=patient-reviews_rectangle_#51a8d3" target="_blank">Birdeye</a></span></div></div>
+		<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div><script type="text/javascript" >
+			function chatNowOnclick() {
+				window.be_webchat.open({ bizNumber: 165046861011457 });
+			}
+		 </script>
+		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
 
 
 <script type="text/javascript" src="https://birdeye.com/embed/v4/163185535171955/8/1234568005183" async></script><div id="bf-revz-widget-1234568005183" ><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-feed&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=rotating-widget_#51a8d3" target="_blank">Birdeye</a></span></div></div>
