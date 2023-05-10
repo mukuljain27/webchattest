@@ -82,10 +82,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact Birdeye
 <script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div>
 <script type="text/javascript" >
-			function chatNowOnclick() {
-				window.be_webchat.open({ bizNumber: 165046861011457 });
-			}
-		 </script>
+function chatNowOnclick() {
+	window.be_webchat.open({ bizNumber: 165046861011457 });
+}
+</script>
 <button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
