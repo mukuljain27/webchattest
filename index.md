@@ -2,6 +2,13 @@
 
 <button><a href="https://birdeye.com/appointments/158597310334381/Oz1xbgGJ" target="_blank" rel="noopener noreferrer">Book an appointment</a></button>
 
+		<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div><script type="text/javascript" >
+			function chatNowOnclick() {
+				window.be_webchat.open({ bizNumber: 165046861011457 });
+			}
+		 </script>
+		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
+
 You can use the [editor on GitHub](https://github.com/SAGGARW1/webchat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -77,13 +84,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-MZ8KSDH');</script>
         <!-- End Google Tag Manager -->
-        
-		<script defer type="text/javascript" src="https://qa7.birdeye.com/embed/v6/2680/1/518445795/c23fbb2a69b036c00287417582573788724cf5a95dbf09b2"></script><div id="bf-revz-widget-518445795"></div><script type="text/javascript" >
-			function chatNowOnclick() {
-				window.be_webchat.open({ bizNumber: 165046861011457 });
-			}
-		 </script>
-		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>	
+        	
 
 ### Support or Contact Birdeye
 
