@@ -86,7 +86,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 				window.be_webchat.open({ bizNumber: 165046861011457 });
 			}
 		 </script>
-		<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
+<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick()">Chat now</button>
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
