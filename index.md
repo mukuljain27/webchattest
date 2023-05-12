@@ -100,6 +100,12 @@ function chatNowOnclick1() {
 	}
  </script>
 <button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick3()">Chat now 3</button>	
+<script type="text/javascript" >
+function chatNowOnclick4() {
+	window.be_webchat.open();
+}
+</script>
+<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick4()">Chat now 4</button>
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
