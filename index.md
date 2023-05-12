@@ -17,10 +17,4 @@ function chatNowOnclick1() {
 		window.be_webchat.open({ lid: 165633916775987 });
 	}
  </script>
-<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick3()">Chat now 3</button>	
-<script type="text/javascript" >
-function chatNowOnclick4() {
-	window.be_webchat.open();
-}
-</script>
-<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick4()">Chat now 4</button>
+<button onclick="window.be_webchat && window.be_webchat.open && chatNowOnclick3()">Chat now 3</button>
