@@ -1,1 +1,1 @@
-<script defer type="text/javascript" src="https://preprod-webchat.birdeye.com/embed/v6/150996645975082/1/2924739044/66a00a9761107cc70f3d1793b090d5ac2b354c2a7c212fc2"></script><div id="bf-revz-widget-2924739044"></div>
+<script defer type="text/javascript" src="https://birdeye.com/embed/v6/150996645975082/1/2924739044/66a00a9761107cc70f3d1793b090d5ac2b354c2a7c212fc2"></script><div id="bf-revz-widget-2924739044"></div>
