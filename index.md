@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0036)https://7cadda07.websites.looka.com/ -->
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="pointer skrollr skrollr-desktop"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
 
